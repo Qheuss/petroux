@@ -1,3 +1,6 @@
+//Bot créé par Qheuss
+//https://discord.gg/bYRNtmH
+
 const Discord = require('discord.js');
 const cons = require('consolidate')
 const low = require('lowdb')
