@@ -48,7 +48,7 @@ bot.on('ready', () => {
     console.log("Bot opérationnel et en pleine santé!");
 });
 
-bot.login('process.env.TOKEN');
+bot.login(process.env.TOKEN);
 
 bot.on("disconnected", () => {
 	console.log("Déconnecté!");
