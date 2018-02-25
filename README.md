@@ -2,32 +2,16 @@
 
 
 
+                                                                                                                                                                                                                                                                                          
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 
 installation:
 
 npm i discord.js consolidate lowdb
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                          
 changez dans ----> bot.login(process.env.TOKEN);                                                                                           
 (process.env.TOKEN)   en  ("votre token")
