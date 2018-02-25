@@ -48,7 +48,7 @@ bot.on('ready', () => {
     console.log("Bot opérationnel et en pleine santé!");
 });
 
-bot.login('NDE2OTE1Njk2MDQ0MjEyMjM0.DXLaiw.3PV-TP5sWp8tGvZYzW7kQ_e6AO4');
+bot.login('');
 
 bot.on("disconnected", () => {
 	console.log("Déconnecté!");
