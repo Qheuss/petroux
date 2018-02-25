@@ -1,34 +1,4 @@
 {
-  "histoires": [
-    {
-      "story_value": "test",
-      "story_author": "𝕼𝖍𝖊𝖚𝖘𝖘 | Njörd"
-    },
-    {
-      "story_value": "ok",
-      "story_author": "𝕼𝖍𝖊𝖚𝖘𝖘 | Njörd"
-    }
-  ],
-  "xp": [
-    {
-      "user": "𝕼𝖍𝖊𝖚𝖘𝖘 | Njörd",
-      "xp": 149
-    },
-    {
-      "user": "Azertool",
-      "xp": 1
-    },
-    {
-      "user": "get30",
-      "xp": 3
-    },
-    {
-      "user": "Do you know the way?",
-      "xp": 11
-    },
-    {
-      "user": "dos mil dos",
-      "xp": 3
-    }
-  ]
+  "histoires": [],
+  "xp": []
 }
