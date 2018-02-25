@@ -7,7 +7,6 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 
 installation:
-
 npm i discord.js consolidate lowdb
                                                                                                                                                                                                                                                                                           
                                                                                                                                                                                                                                                                                           
